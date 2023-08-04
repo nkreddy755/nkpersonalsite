@@ -1,7 +1,7 @@
 #  About Me:
-👋 Hi, I’m Karthik Reddy<br>👀 I’m interested in Learning | web development | Programming <br>💞️ I’m looking to collaborate on and web development<br>📫 How to reach me https://linktr.ee/nkreddy755
+👋 Hi, I’m Karthik Reddy<br>🤩 I’m interested in Learning | web development | Programming <br>🤝 I’m looking to collaborate on and web development<br>📧 How to reach me https://linktr.ee/nkreddy755
 
-## 🌐 Socials:
+## 🌐 Socials Profiles:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkreddy755) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nkreddy557?t=DHEE8JVtxhshrcTOZCkjWA&s=09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_reddy_755)
 
 # 💻 Tech Stack:
